@@ -2,7 +2,7 @@ pipeline
 {
   environment
   {
-    registry = "architjain03/demoimage"
+    registry = "architjain03/demo"
     registryCredential = 'dockerid'
     dockerImage = ''
   }
